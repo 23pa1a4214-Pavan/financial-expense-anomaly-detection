@@ -1,0 +1,751 @@
+department,expense_category,amount,payment_method,is_weekend,above_category_p95,transaction_month,transaction_day_of_week,transaction_day,transaction_day_of_year,employee_transaction_count,audit_label
+Operations,Meals,916.89,Reimbursement,0,0,4,1,22,112,18,0
+IT,Equipment,12862.45,Reimbursement,1,0,2,5,8,39,25,0
+Finance,Equipment,10223.22,Reimbursement,0,0,9,4,5,248,34,0
+Operations,Travel,6168.02,Bank Transfer,1,0,7,5,26,207,21,0
+IT,Equipment,9633.22,Reimbursement,1,0,11,6,23,327,26,0
+Finance,Meals,1704.35,Reimbursement,1,0,8,6,10,222,29,0
+Sales,Meals,1658.29,Corporate Card,0,0,5,1,27,147,28,0
+Operations,Accommodation,5351.58,Bank Transfer,0,0,3,1,25,84,24,0
+Sales,Office Supplies,478.84,Corporate Card,0,0,1,4,24,24,22,0
+IT,Equipment,8508.08,Corporate Card,1,0,2,6,16,47,30,0
+Sales,Travel,4767.52,Corporate Card,0,0,11,0,24,328,25,0
+IT,Accommodation,6017.58,Reimbursement,1,0,11,6,30,334,30,0
+Finance,Office Supplies,2280.3,Corporate Card,0,0,7,0,21,202,34,0
+Operations,Accommodation,8637.49,Reimbursement,0,0,3,2,19,78,31,0
+HR,Meals,2289.4,Bank Transfer,1,0,8,6,17,229,34,0
+Finance,Meals,1968.7,Corporate Card,1,0,7,6,27,208,20,0
+Sales,Office Supplies,2302.34,Corporate Card,0,0,1,1,7,7,22,0
+HR,Travel,5352.4,Bank Transfer,0,0,10,4,24,297,24,0
+Finance,Travel,9568.31,Corporate Card,0,0,10,4,17,290,23,0
+Finance,Accommodation,4644.49,Reimbursement,0,0,9,1,2,245,27,0
+Operations,Meals,1780.58,Bank Transfer,0,0,9,4,12,255,18,0
+Sales,Accommodation,3072.92,Bank Transfer,0,0,6,1,3,154,26,0
+Operations,Equipment,16976.45,Reimbursement,1,0,1,6,19,19,23,0
+IT,Accommodation,2114.46,Reimbursement,1,0,1,5,11,11,24,0
+HR,Equipment,12025.82,Bank Transfer,1,0,10,5,25,298,26,0
+Sales,Office Supplies,125.18,Corporate Card,1,0,10,5,18,291,22,0
+IT,Meals,1558.19,Corporate Card,0,0,9,4,19,262,25,0
+Finance,Travel,8560.27,Bank Transfer,0,0,5,4,16,136,19,0
+Sales,Travel,9723.2,Bank Transfer,1,0,10,6,5,278,28,0
+Operations,Meals,1191.26,Corporate Card,0,0,7,0,7,188,26,0
+Sales,Equipment,18881.95,Bank Transfer,0,0,11,4,28,332,32,0
+Finance,Accommodation,3107.85,Bank Transfer,0,0,6,3,12,163,22,0
+Finance,Office Supplies,12136.71,Reimbursement,1,1,6,5,7,158,24,1
+Finance,Accommodation,5419.24,Reimbursement,0,0,9,0,1,244,29,0
+Finance,Meals,2359.04,Bank Transfer,0,0,7,2,2,183,19,0
+IT,Travel,3715.18,Corporate Card,0,0,10,4,24,297,22,0
+Finance,Equipment,1993.82,Bank Transfer,0,0,6,2,4,155,18,0
+HR,Travel,8499.19,Reimbursement,0,0,1,0,20,20,37,0
+Sales,Meals,2468.37,Bank Transfer,0,1,6,1,17,168,21,0
+Finance,Office Supplies,812.0,Bank Transfer,0,0,10,0,27,300,34,0
+Finance,Meals,2414.37,Bank Transfer,0,0,1,1,28,28,27,0
+IT,Office Supplies,412.78,Bank Transfer,1,0,7,6,27,208,23,0
+Sales,Office Supplies,358.94,Bank Transfer,1,0,7,5,5,186,28,0
+Finance,Travel,2501.81,Reimbursement,0,0,3,0,3,62,24,0
+HR,Equipment,8835.98,Corporate Card,1,0,6,5,7,158,28,0
+Operations,Equipment,69038.7,Reimbursement,1,1,4,6,13,103,23,1
+HR,Travel,9585.41,Corporate Card,0,0,9,0,1,244,23,0
+Finance,Equipment,18426.24,Reimbursement,0,0,4,4,18,108,29,0
+Sales,Meals,2517.08,Reimbursement,1,1,8,5,2,214,17,0
+Operations,Equipment,10705.97,Reimbursement,0,0,6,4,6,157,18,0
+Finance,Meals,383.67,Bank Transfer,0,0,7,2,23,204,26,0
+Operations,Equipment,3494.16,Reimbursement,0,0,1,2,8,8,20,0
+Sales,Meals,2398.85,Bank Transfer,0,0,6,1,17,168,21,0
+HR,Office Supplies,1658.8,Bank Transfer,0,0,11,2,26,330,23,0
+Finance,Office Supplies,2025.66,Corporate Card,0,0,2,0,24,55,23,0
+Finance,Office Supplies,955.71,Bank Transfer,0,0,6,2,25,176,20,0
+Operations,Travel,8662.61,Reimbursement,1,0,9,6,7,250,21,0
+IT,Meals,2287.18,Bank Transfer,0,0,10,0,6,279,27,0
+HR,Office Supplies,223.58,Bank Transfer,0,0,8,1,12,224,28,0
+Operations,Meals,722.27,Reimbursement,1,0,7,6,13,194,24,0
+HR,Meals,1705.4,Corporate Card,0,0,8,3,14,226,31,0
+Sales,Office Supplies,10634.91,Reimbursement,1,1,3,5,8,67,34,1
+IT,Travel,3514.44,Bank Transfer,0,0,2,3,27,58,26,0
+HR,Equipment,8299.23,Reimbursement,1,0,1,6,5,5,19,0
+Sales,Equipment,6873.86,Reimbursement,0,0,10,3,9,282,18,0
+IT,Equipment,18649.27,Corporate Card,1,0,4,6,13,103,27,0
+HR,Accommodation,2075.88,Bank Transfer,0,0,1,2,29,29,28,0
+HR,Equipment,10717.14,Reimbursement,1,0,9,6,28,271,28,0
+Finance,Meals,394.74,Bank Transfer,0,0,2,3,27,58,25,0
+HR,Equipment,2108.85,Corporate Card,0,0,4,0,21,111,23,0
+Finance,Meals,2018.17,Corporate Card,0,0,5,0,26,146,29,0
+Finance,Office Supplies,1398.25,Corporate Card,1,0,2,6,23,54,28,0
+Finance,Meals,2092.97,Reimbursement,0,0,3,4,28,87,22,0
+Operations,Meals,830.33,Corporate Card,0,0,1,4,17,17,26,0
+Finance,Accommodation,4948.24,Bank Transfer,0,0,8,3,7,219,19,0
+HR,Equipment,15877.45,Reimbursement,0,0,2,2,12,43,26,0
+IT,Accommodation,2914.64,Bank Transfer,0,0,5,0,19,139,28,0
+Operations,Office Supplies,937.25,Corporate Card,0,0,12,4,26,360,19,0
+Finance,Accommodation,2229.05,Corporate Card,0,0,11,2,19,323,36,0
+Sales,Travel,4242.39,Bank Transfer,0,0,1,4,31,31,33,0
+Sales,Meals,1321.09,Reimbursement,1,0,8,6,3,215,36,0
+HR,Equipment,15022.85,Reimbursement,0,0,9,3,18,261,24,0
+IT,Office Supplies,835.74,Reimbursement,0,0,4,1,15,105,22,0
+Finance,Travel,3682.15,Corporate Card,1,0,6,5,7,158,20,0
+Operations,Office Supplies,173.19,Corporate Card,0,0,10,1,14,287,26,0
+HR,Travel,7560.6,Bank Transfer,0,0,12,1,23,357,27,0
+IT,Accommodation,5895.79,Corporate Card,0,0,1,1,7,7,24,0
+Operations,Meals,1021.72,Reimbursement,0,0,6,3,26,177,19,0
+Operations,Travel,6341.54,Bank Transfer,0,0,4,4,4,94,30,0
+Finance,Travel,2462.84,Reimbursement,0,0,12,3,25,359,20,0
+IT,Office Supplies,813.94,Bank Transfer,1,0,11,6,16,320,26,0
+IT,Meals,872.48,Bank Transfer,0,0,5,0,19,139,34,0
+Operations,Travel,26541.54,Corporate Card,1,1,5,5,24,144,34,1
+Sales,Accommodation,8155.88,Bank Transfer,0,0,6,4,20,171,25,0
+IT,Office Supplies,1630.01,Reimbursement,0,0,8,1,26,238,33,0
+Sales,Meals,1576.5,Bank Transfer,1,0,2,5,15,46,29,0
+HR,Travel,10370.3,Reimbursement,0,0,11,2,26,330,23,0
+HR,Travel,7538.91,Corporate Card,0,0,4,2,2,92,26,0
+HR,Equipment,3175.35,Reimbursement,0,0,7,2,30,211,28,0
+Finance,Accommodation,2646.07,Corporate Card,0,0,6,1,24,175,25,0
+HR,Office Supplies,2036.82,Corporate Card,0,0,4,3,10,100,30,0
+HR,Office Supplies,2599.82,Reimbursement,1,0,9,5,27,270,34,0
+IT,Meals,1572.89,Bank Transfer,0,0,12,3,25,359,19,0
+HR,Accommodation,9606.91,Bank Transfer,1,0,8,6,24,236,19,0
+HR,Office Supplies,682.47,Reimbursement,0,0,12,1,9,343,19,0
+Operations,Equipment,12411.33,Reimbursement,0,0,3,3,6,65,26,0
+IT,Travel,2337.58,Reimbursement,1,0,10,6,5,278,15,0
+Sales,Accommodation,3542.32,Corporate Card,1,0,12,5,20,354,24,0
+Finance,Meals,2022.72,Bank Transfer,0,0,10,2,15,288,21,0
+Finance,Office Supplies,1639.49,Corporate Card,1,0,5,6,25,145,23,0
+Finance,Equipment,8367.85,Bank Transfer,1,0,3,5,1,60,34,0
+Sales,Office Supplies,832.5,Corporate Card,0,0,12,1,16,350,30,0
+IT,Travel,6353.43,Reimbursement,0,0,8,4,22,234,29,0
+Operations,Office Supplies,1847.92,Bank Transfer,0,0,10,1,7,280,25,0
+Sales,Office Supplies,152.42,Corporate Card,1,0,10,5,4,277,26,0
+IT,Accommodation,7215.79,Bank Transfer,0,0,10,3,23,296,22,0
+Sales,Accommodation,8563.63,Reimbursement,0,0,8,1,5,217,19,0
+HR,Equipment,8801.53,Corporate Card,0,0,12,0,15,349,30,0
+IT,Accommodation,8701.37,Reimbursement,0,0,11,1,4,308,27,0
+Operations,Meals,1772.25,Reimbursement,0,0,9,2,17,260,36,0
+Operations,Meals,1008.87,Reimbursement,0,0,11,1,25,329,25,0
+HR,Meals,2341.66,Corporate Card,0,0,7,1,1,182,21,0
+IT,Office Supplies,2601.76,Reimbursement,1,0,7,6,27,208,26,0
+Finance,Accommodation,2443.87,Bank Transfer,0,0,11,3,20,324,26,0
+Sales,Meals,1154.68,Corporate Card,0,0,4,4,25,115,23,0
+Finance,Office Supplies,1248.56,Bank Transfer,0,0,3,4,14,73,31,0
+Finance,Office Supplies,2789.07,Reimbursement,0,0,6,4,20,171,23,1
+Sales,Equipment,8979.64,Corporate Card,0,0,11,4,28,332,22,0
+Operations,Office Supplies,2977.07,Corporate Card,1,1,3,5,29,88,28,0
+HR,Travel,6176.71,Reimbursement,0,0,10,2,22,295,26,0
+Sales,Accommodation,9014.72,Reimbursement,0,0,1,3,16,16,36,0
+Sales,Accommodation,4839.97,Reimbursement,0,0,7,1,15,196,30,0
+HR,Meals,2170.51,Corporate Card,0,0,5,2,7,127,28,0
+Sales,Equipment,3866.83,Reimbursement,0,0,8,1,19,231,22,0
+IT,Meals,1271.88,Reimbursement,0,0,1,2,29,29,23,1
+IT,Equipment,15650.39,Bank Transfer,0,0,6,0,2,153,28,0
+HR,Travel,8802.74,Bank Transfer,0,0,9,2,10,253,22,0
+Finance,Equipment,14910.0,Corporate Card,1,0,2,6,16,47,18,0
+IT,Meals,1006.7,Corporate Card,1,0,7,5,19,200,22,0
+IT,Accommodation,6208.66,Corporate Card,0,0,3,0,3,62,31,0
+IT,Office Supplies,1456.96,Bank Transfer,0,0,4,4,18,108,24,0
+Finance,Equipment,3469.91,Reimbursement,0,0,8,4,15,227,19,0
+HR,Equipment,2069.55,Corporate Card,0,0,9,2,3,246,28,0
+HR,Accommodation,8641.95,Corporate Card,1,0,1,5,25,25,25,0
+HR,Equipment,110060.19,Corporate Card,1,1,2,5,15,46,29,1
+Finance,Meals,978.65,Corporate Card,1,0,5,5,31,151,32,0
+Sales,Meals,2216.18,Bank Transfer,1,0,7,5,19,200,27,0
+IT,Meals,1066.69,Reimbursement,0,0,10,3,16,289,34,0
+Finance,Travel,6664.7,Reimbursement,1,0,2,6,16,47,20,0
+Finance,Office Supplies,2998.12,Bank Transfer,1,1,4,5,19,109,29,0
+Operations,Office Supplies,301.4,Reimbursement,0,0,8,4,1,213,29,0
+HR,Equipment,15077.33,Corporate Card,0,0,8,0,4,216,19,0
+Operations,Office Supplies,2736.49,Reimbursement,0,0,8,1,26,238,19,0
+Sales,Office Supplies,2025.64,Reimbursement,1,0,7,6,20,201,27,0
+IT,Equipment,5998.49,Bank Transfer,0,0,3,3,13,72,18,0
+Finance,Travel,2455.18,Corporate Card,0,0,4,4,4,94,25,0
+IT,Equipment,3490.86,Reimbursement,0,0,4,3,3,93,25,0
+Operations,Meals,1643.64,Bank Transfer,0,0,12,1,9,343,29,0
+IT,Equipment,15796.92,Corporate Card,1,0,1,6,12,12,36,0
+Operations,Meals,1388.32,Reimbursement,0,0,11,2,26,330,28,0
+Sales,Office Supplies,1574.03,Reimbursement,1,0,1,6,5,5,36,0
+HR,Office Supplies,2577.6,Reimbursement,1,0,10,5,25,298,24,0
+Operations,Accommodation,8137.37,Reimbursement,0,0,10,2,29,302,22,0
+HR,Equipment,3430.2,Bank Transfer,0,0,4,2,16,106,34,0
+IT,Travel,7422.25,Corporate Card,0,0,11,4,7,311,19,0
+IT,Accommodation,2812.9,Corporate Card,0,0,10,2,15,288,30,0
+HR,Office Supplies,101.28,Corporate Card,1,0,8,5,16,228,19,0
+HR,Meals,1954.88,Reimbursement,0,0,12,3,11,345,27,0
+Finance,Travel,7810.05,Bank Transfer,0,0,3,0,17,76,22,0
+IT,Office Supplies,429.32,Bank Transfer,0,0,6,1,3,154,22,0
+Sales,Travel,10241.38,Corporate Card,0,0,1,1,14,14,23,0
+Operations,Office Supplies,735.21,Reimbursement,1,0,1,6,19,19,26,0
+HR,Meals,1190.62,Corporate Card,0,0,1,4,17,17,25,0
+IT,Travel,11698.62,Bank Transfer,0,0,5,2,28,148,20,1
+Operations,Accommodation,7182.05,Bank Transfer,0,0,5,2,7,127,24,0
+Sales,Meals,1573.21,Bank Transfer,0,0,5,0,26,146,23,0
+IT,Accommodation,4665.47,Reimbursement,0,0,3,1,25,84,26,0
+Finance,Office Supplies,2752.6,Corporate Card,0,0,4,3,17,107,28,0
+HR,Office Supplies,1180.92,Bank Transfer,1,0,5,5,24,144,28,0
+HR,Travel,5989.18,Bank Transfer,0,0,2,1,11,42,31,0
+Operations,Meals,664.13,Bank Transfer,0,0,5,2,7,127,25,0
+Finance,Office Supplies,1849.52,Reimbursement,0,0,5,4,9,129,23,0
+IT,Equipment,15617.5,Corporate Card,0,0,10,0,6,279,21,0
+Finance,Equipment,10380.5,Reimbursement,1,0,6,5,28,179,33,0
+Operations,Accommodation,3422.39,Reimbursement,0,0,7,2,23,204,30,0
+Finance,Travel,8831.08,Bank Transfer,0,0,9,2,17,260,26,0
+Finance,Meals,1808.91,Reimbursement,0,0,5,0,19,139,22,0
+Operations,Office Supplies,580.13,Reimbursement,0,0,1,2,1,1,24,0
+Finance,Office Supplies,194.04,Corporate Card,1,0,3,6,9,68,29,0
+IT,Accommodation,5303.62,Reimbursement,1,0,8,6,31,243,19,0
+Finance,Office Supplies,1942.43,Corporate Card,1,0,5,5,24,144,28,0
+Finance,Travel,10970.31,Reimbursement,1,0,3,5,15,74,26,0
+Operations,Office Supplies,1536.81,Bank Transfer,1,0,9,6,21,264,28,0
+Sales,Office Supplies,2799.75,Bank Transfer,0,0,10,2,29,302,28,0
+HR,Accommodation,6439.98,Corporate Card,0,0,6,1,3,154,21,0
+IT,Accommodation,7462.02,Reimbursement,1,0,3,6,16,75,27,0
+Operations,Travel,10541.21,Reimbursement,1,0,12,6,21,355,22,0
+Finance,Equipment,19184.21,Reimbursement,0,0,12,1,30,364,30,0
+Sales,Travel,7972.56,Bank Transfer,0,0,11,4,14,318,34,0
+Operations,Meals,1635.46,Corporate Card,0,0,4,3,10,100,23,0
+Operations,Meals,203.64,Bank Transfer,1,0,7,6,6,187,19,0
+IT,Travel,3442.5,Corporate Card,0,0,1,0,13,13,29,0
+IT,Equipment,2778.96,Corporate Card,0,0,2,0,10,41,28,0
+HR,Equipment,6672.63,Corporate Card,0,0,7,1,8,189,27,0
+IT,Travel,2202.99,Corporate Card,0,0,1,3,2,2,30,0
+IT,Accommodation,6269.8,Corporate Card,0,0,3,4,28,87,34,1
+HR,Travel,3200.66,Corporate Card,1,0,3,5,8,67,26,0
+IT,Accommodation,2215.64,Bank Transfer,0,0,4,2,30,120,30,0
+HR,Equipment,10916.59,Bank Transfer,0,0,12,2,31,365,21,0
+Sales,Meals,1931.1,Corporate Card,0,0,12,3,18,352,28,0
+HR,Equipment,9170.47,Bank Transfer,0,0,11,2,19,323,28,0
+IT,Office Supplies,1223.06,Bank Transfer,0,0,8,4,8,220,22,0
+Finance,Equipment,8558.13,Reimbursement,1,0,12,5,20,354,26,0
+HR,Equipment,5498.5,Corporate Card,0,0,6,0,30,181,31,0
+Sales,Accommodation,2393.19,Corporate Card,0,0,8,2,6,218,26,0
+Sales,Meals,1531.99,Reimbursement,0,0,5,3,1,121,27,0
+Operations,Accommodation,2838.11,Reimbursement,0,0,6,4,27,178,38,0
+HR,Office Supplies,2121.98,Bank Transfer,1,0,5,5,10,130,22,0
+Operations,Equipment,11736.23,Bank Transfer,0,0,12,4,19,353,23,0
+Operations,Equipment,15616.62,Reimbursement,0,0,9,3,4,247,23,0
+HR,Meals,1723.03,Bank Transfer,1,0,12,5,13,347,20,0
+IT,Meals,2447.04,Bank Transfer,0,1,5,1,13,133,34,0
+Operations,Travel,8580.42,Reimbursement,0,0,6,3,26,177,29,0
+IT,Office Supplies,774.4,Corporate Card,1,0,6,6,22,173,31,0
+Finance,Meals,1777.21,Reimbursement,0,0,11,0,17,321,30,0
+HR,Office Supplies,1714.95,Bank Transfer,0,0,6,1,24,175,24,0
+Operations,Accommodation,4845.38,Bank Transfer,0,0,4,2,23,113,29,0
+Operations,Office Supplies,268.83,Corporate Card,0,0,10,4,3,276,29,0
+HR,Office Supplies,2874.06,Corporate Card,0,0,3,2,5,64,25,0
+Finance,Accommodation,8537.03,Corporate Card,0,0,6,1,17,168,23,0
+HR,Accommodation,2777.49,Corporate Card,1,0,9,6,7,250,25,0
+HR,Meals,379.16,Corporate Card,0,0,2,1,4,35,26,0
+HR,Equipment,96281.56,Corporate Card,0,1,8,4,1,213,26,1
+IT,Meals,419.79,Corporate Card,0,0,8,1,19,231,18,0
+IT,Equipment,3759.03,Corporate Card,0,0,7,3,17,198,31,0
+HR,Travel,2536.19,Corporate Card,0,0,5,0,19,139,27,0
+HR,Meals,1836.26,Corporate Card,1,0,11,5,29,333,23,0
+IT,Meals,1212.93,Reimbursement,0,0,2,0,3,34,21,0
+HR,Equipment,7583.41,Reimbursement,1,0,12,6,7,341,20,1
+HR,Meals,672.75,Reimbursement,0,0,7,4,11,192,23,0
+Operations,Office Supplies,21714.59,Bank Transfer,0,1,10,2,22,295,29,1
+Operations,Meals,729.07,Corporate Card,0,0,2,2,5,36,23,0
+Operations,Accommodation,8882.66,Corporate Card,0,0,8,2,6,218,24,0
+IT,Equipment,41314.8,Reimbursement,0,1,2,4,28,59,23,1
+Operations,Meals,2116.41,Corporate Card,0,0,3,4,14,73,24,0
+IT,Travel,47814.39,Corporate Card,0,1,1,0,6,6,34,1
+Sales,Office Supplies,1141.1,Bank Transfer,1,0,12,6,21,355,29,0
+HR,Equipment,10813.84,Corporate Card,0,0,3,3,27,86,28,0
+IT,Office Supplies,2648.73,Corporate Card,1,0,6,5,14,165,24,0
+Finance,Meals,2375.14,Corporate Card,0,0,1,1,28,28,18,0
+Operations,Accommodation,9524.3,Reimbursement,1,0,8,5,23,235,33,0
+HR,Equipment,1598.1,Bank Transfer,0,0,7,4,11,192,30,0
+IT,Office Supplies,1745.2,Bank Transfer,0,0,11,3,13,317,19,0
+Finance,Meals,2038.37,Corporate Card,0,0,7,2,16,197,24,0
+Sales,Meals,393.09,Corporate Card,0,0,7,0,21,202,32,0
+HR,Travel,4628.47,Bank Transfer,1,0,2,5,8,39,15,0
+Operations,Travel,10051.02,Bank Transfer,0,0,10,0,13,286,24,0
+Operations,Meals,572.56,Corporate Card,0,0,3,2,26,85,31,0
+IT,Meals,2024.5,Reimbursement,1,0,9,5,20,263,23,0
+IT,Accommodation,4458.76,Reimbursement,0,0,5,3,1,121,26,0
+Operations,Accommodation,5070.18,Bank Transfer,1,0,9,6,7,250,34,0
+HR,Meals,1039.13,Reimbursement,0,0,7,0,28,209,21,0
+Finance,Equipment,18162.32,Corporate Card,1,0,10,6,19,292,28,0
+IT,Office Supplies,697.97,Corporate Card,0,0,10,0,6,279,23,0
+HR,Meals,775.48,Reimbursement,0,0,8,0,18,230,33,0
+Sales,Office Supplies,241.15,Corporate Card,0,0,10,4,10,283,23,0
+HR,Office Supplies,1480.33,Corporate Card,0,0,6,2,4,155,34,0
+Operations,Travel,4777.46,Corporate Card,0,0,10,4,31,304,30,0
+Operations,Office Supplies,250.95,Bank Transfer,0,0,11,4,28,332,24,0
+Finance,Travel,6204.9,Bank Transfer,1,0,8,5,23,235,31,0
+Sales,Accommodation,23045.26,Corporate Card,0,1,8,3,7,219,27,1
+Finance,Office Supplies,2175.35,Corporate Card,0,0,2,1,18,49,28,0
+Sales,Equipment,2455.37,Reimbursement,0,0,9,2,3,246,29,1
+IT,Equipment,75279.33,Corporate Card,1,1,8,6,10,222,34,1
+HR,Meals,1770.1,Corporate Card,0,0,12,3,25,359,24,0
+IT,Office Supplies,2410.58,Corporate Card,0,0,6,1,17,168,36,0
+HR,Equipment,14028.03,Bank Transfer,1,0,2,5,22,53,24,0
+HR,Office Supplies,2311.99,Reimbursement,0,0,12,1,23,357,23,1
+Finance,Equipment,18968.97,Reimbursement,1,0,11,5,15,319,34,0
+IT,Travel,6791.81,Corporate Card,1,0,12,6,14,348,25,0
+Sales,Accommodation,5125.83,Bank Transfer,0,0,1,0,6,6,25,1
+HR,Meals,2059.02,Bank Transfer,0,0,4,1,15,105,28,0
+Operations,Accommodation,4783.53,Reimbursement,0,0,12,3,4,338,21,0
+Operations,Travel,8642.08,Bank Transfer,1,0,7,6,6,187,27,0
+Finance,Meals,1208.49,Reimbursement,0,0,12,0,8,342,25,0
+Sales,Office Supplies,2344.98,Bank Transfer,0,0,1,4,17,17,16,0
+Operations,Office Supplies,1989.29,Corporate Card,0,0,12,2,24,358,26,0
+Sales,Office Supplies,1275.12,Corporate Card,0,0,3,1,25,84,30,0
+HR,Office Supplies,2232.22,Reimbursement,0,0,6,4,20,171,30,0
+Finance,Office Supplies,2761.4,Reimbursement,1,0,6,6,1,152,28,0
+Sales,Travel,2528.75,Corporate Card,1,0,12,6,7,341,34,0
+IT,Accommodation,7234.77,Reimbursement,1,0,3,6,23,82,41,0
+Finance,Travel,4596.72,Reimbursement,1,0,6,6,29,180,30,0
+IT,Meals,1081.25,Bank Transfer,0,0,10,2,29,302,22,0
+HR,Equipment,19390.47,Reimbursement,0,0,1,2,8,8,31,0
+Operations,Travel,8564.3,Reimbursement,0,0,2,0,10,41,27,0
+IT,Accommodation,8008.19,Corporate Card,0,0,11,3,20,324,17,0
+Finance,Accommodation,2235.63,Corporate Card,0,0,9,3,4,247,27,0
+Finance,Equipment,5198.23,Corporate Card,0,0,2,4,28,59,23,0
+Finance,Office Supplies,2448.39,Reimbursement,0,0,5,1,6,126,32,0
+IT,Equipment,12152.03,Corporate Card,0,0,10,4,31,304,26,0
+IT,Meals,2314.92,Reimbursement,0,0,6,0,16,167,30,0
+HR,Accommodation,4426.26,Corporate Card,0,0,6,2,25,176,26,0
+Finance,Travel,10619.85,Bank Transfer,0,0,8,2,6,218,35,0
+IT,Equipment,12701.1,Bank Transfer,0,0,11,4,14,318,19,0
+IT,Meals,1436.34,Bank Transfer,0,0,1,4,17,17,32,1
+IT,Accommodation,6918.27,Reimbursement,0,0,6,0,23,174,21,0
+Operations,Travel,6790.93,Corporate Card,0,0,8,0,25,237,30,0
+Operations,Meals,1744.51,Corporate Card,0,0,9,1,30,273,27,0
+Operations,Meals,633.78,Reimbursement,0,0,4,2,2,92,23,0
+Operations,Equipment,3963.87,Corporate Card,0,0,4,4,11,101,24,0
+Sales,Meals,2373.24,Bank Transfer,1,0,11,6,9,313,33,0
+Operations,Equipment,54508.16,Reimbursement,0,1,8,1,19,231,30,1
+Finance,Meals,2267.44,Corporate Card,0,0,12,1,16,350,27,0
+IT,Accommodation,3175.68,Bank Transfer,0,0,10,2,8,281,14,0
+Finance,Office Supplies,2564.65,Reimbursement,0,0,3,4,7,66,20,0
+Sales,Meals,1332.82,Reimbursement,0,0,1,4,17,17,22,0
+IT,Travel,8198.27,Reimbursement,0,0,10,3,2,275,25,0
+HR,Equipment,5006.78,Reimbursement,0,0,2,2,26,57,25,0
+HR,Meals,811.76,Reimbursement,1,0,2,5,15,46,18,0
+Operations,Travel,10861.6,Corporate Card,0,0,8,0,4,216,23,0
+IT,Meals,1376.66,Corporate Card,0,0,11,0,10,314,33,0
+Operations,Accommodation,9746.35,Reimbursement,0,0,2,1,11,42,29,0
+HR,Travel,11926.13,Bank Transfer,0,1,4,0,28,118,27,0
+Sales,Meals,7053.12,Bank Transfer,0,1,10,4,3,276,31,1
+Sales,Office Supplies,1286.12,Corporate Card,0,0,4,2,16,106,27,1
+IT,Meals,236.72,Corporate Card,1,0,12,5,6,340,30,0
+Sales,Meals,2261.89,Bank Transfer,0,0,6,3,26,177,25,0
+HR,Office Supplies,2354.38,Reimbursement,0,0,12,1,23,357,30,0
+IT,Office Supplies,1610.54,Bank Transfer,1,0,7,6,6,187,26,0
+Sales,Travel,1974.26,Corporate Card,0,0,6,3,26,177,28,0
+Operations,Office Supplies,2850.89,Bank Transfer,1,0,11,6,9,313,17,0
+IT,Office Supplies,866.6,Bank Transfer,0,0,4,2,30,120,22,0
+Finance,Office Supplies,1220.84,Bank Transfer,0,0,9,2,3,246,23,0
+Finance,Meals,1883.81,Bank Transfer,1,0,10,6,12,285,33,0
+Operations,Meals,378.63,Corporate Card,1,0,5,5,3,123,23,0
+Finance,Meals,959.94,Corporate Card,0,0,3,3,27,86,22,0
+Finance,Accommodation,5904.84,Corporate Card,0,0,2,4,28,59,26,0
+HR,Office Supplies,764.06,Corporate Card,1,0,9,6,21,264,22,0
+Operations,Travel,6565.74,Reimbursement,0,0,2,4,28,59,26,0
+Sales,Office Supplies,135.0,Reimbursement,1,0,3,5,15,74,27,1
+Finance,Office Supplies,1432.99,Bank Transfer,1,0,1,5,18,18,36,0
+IT,Accommodation,5050.95,Bank Transfer,0,0,8,1,19,231,22,0
+HR,Office Supplies,1896.89,Reimbursement,0,0,10,0,20,293,20,0
+HR,Meals,621.86,Corporate Card,0,0,5,4,2,122,23,0
+HR,Travel,6281.26,Reimbursement,0,0,7,1,15,196,25,0
+IT,Meals,1548.34,Reimbursement,0,0,3,3,13,72,25,0
+IT,Equipment,18064.83,Bank Transfer,1,0,8,6,3,215,24,0
+IT,Equipment,12540.55,Bank Transfer,0,0,7,1,22,203,23,0
+HR,Travel,7871.73,Bank Transfer,0,0,6,1,17,168,34,0
+HR,Office Supplies,392.18,Corporate Card,0,0,10,3,30,303,26,0
+IT,Office Supplies,2466.74,Reimbursement,0,0,2,4,21,52,30,0
+Sales,Equipment,10254.48,Corporate Card,1,0,5,5,31,151,22,0
+Finance,Travel,6827.34,Corporate Card,1,0,4,6,27,117,30,0
+Operations,Meals,2327.21,Corporate Card,1,0,7,6,20,201,35,0
+Finance,Accommodation,8289.59,Corporate Card,1,0,2,5,8,39,25,0
+Operations,Meals,1055.79,Corporate Card,0,0,6,4,6,157,24,0
+Sales,Accommodation,7784.57,Bank Transfer,0,0,1,4,10,10,30,0
+Sales,Meals,1500.42,Bank Transfer,0,0,6,2,25,176,29,0
+Operations,Meals,1881.84,Corporate Card,1,0,12,5,6,340,34,0
+HR,Travel,10511.94,Reimbursement,0,0,11,1,18,322,30,0
+Finance,Meals,318.49,Corporate Card,0,0,2,1,11,42,23,0
+HR,Equipment,16548.37,Bank Transfer,1,0,1,6,12,12,31,0
+Operations,Travel,9490.76,Reimbursement,0,0,7,3,17,198,30,0
+Sales,Travel,19578.6,Corporate Card,1,1,7,5,26,207,24,0
+IT,Travel,5081.2,Bank Transfer,1,0,5,5,31,151,21,0
+Sales,Office Supplies,2621.86,Reimbursement,0,0,11,3,6,310,21,0
+IT,Meals,1447.67,Bank Transfer,1,0,6,6,22,173,41,0
+Operations,Accommodation,2962.71,Corporate Card,0,0,4,3,17,107,22,0
+HR,Equipment,3744.14,Reimbursement,0,0,1,3,9,9,26,0
+Finance,Travel,8526.51,Corporate Card,1,0,12,5,13,347,24,0
+Operations,Office Supplies,2121.34,Reimbursement,0,0,7,3,24,205,26,0
+Finance,Office Supplies,2605.46,Reimbursement,0,0,3,1,25,84,18,0
+IT,Equipment,10858.16,Corporate Card,0,0,2,0,17,48,25,1
+HR,Equipment,15092.66,Reimbursement,0,0,2,4,14,45,27,0
+HR,Meals,1661.9,Corporate Card,0,0,4,2,9,99,31,0
+HR,Office Supplies,1980.6,Reimbursement,0,0,9,4,19,262,32,0
+Operations,Office Supplies,2002.72,Bank Transfer,1,0,2,6,16,47,29,0
+IT,Equipment,13645.86,Reimbursement,0,0,12,0,22,356,27,0
+IT,Office Supplies,1367.45,Bank Transfer,0,0,4,0,21,111,18,0
+HR,Office Supplies,2502.89,Reimbursement,1,0,5,6,25,145,14,0
+IT,Accommodation,2153.54,Corporate Card,0,0,3,3,20,79,25,0
+Finance,Travel,6892.8,Bank Transfer,0,0,2,2,12,43,29,0
+Finance,Equipment,19494.37,Corporate Card,0,1,10,0,6,279,28,0
+IT,Equipment,4692.84,Reimbursement,0,0,1,1,21,21,19,0
+Finance,Accommodation,8917.8,Reimbursement,0,0,1,3,16,16,22,0
+Finance,Meals,1779.3,Reimbursement,1,0,3,5,29,88,29,0
+Operations,Meals,681.52,Reimbursement,0,0,1,4,24,24,34,0
+Sales,Meals,1026.82,Reimbursement,0,0,9,1,2,245,24,0
+Sales,Meals,1492.51,Reimbursement,1,0,1,5,18,18,22,0
+Sales,Office Supplies,439.94,Reimbursement,0,0,8,4,22,234,22,0
+HR,Accommodation,3593.94,Corporate Card,0,0,7,3,3,184,24,0
+Operations,Equipment,2307.74,Bank Transfer,0,0,10,0,27,300,32,0
+Operations,Office Supplies,474.75,Reimbursement,1,0,6,5,7,158,24,0
+HR,Office Supplies,2381.84,Bank Transfer,1,0,6,5,28,179,24,0
+Sales,Accommodation,5309.86,Reimbursement,0,0,12,0,15,349,23,0
+IT,Office Supplies,955.22,Reimbursement,0,0,12,1,30,364,31,0
+Finance,Meals,2487.05,Bank Transfer,0,1,7,2,9,190,27,0
+Finance,Travel,6745.26,Corporate Card,0,0,2,1,18,49,26,0
+HR,Meals,2317.76,Corporate Card,0,0,4,3,17,107,24,0
+HR,Accommodation,3416.75,Corporate Card,0,0,3,1,11,70,28,0
+Sales,Equipment,3312.43,Corporate Card,0,0,10,1,7,280,23,0
+Finance,Meals,673.84,Bank Transfer,1,0,11,5,15,319,28,0
+Sales,Travel,2394.26,Reimbursement,1,0,2,6,9,40,25,0
+Operations,Accommodation,9794.51,Bank Transfer,0,0,9,1,2,245,29,0
+Sales,Office Supplies,331.95,Reimbursement,0,0,1,2,8,8,18,0
+Finance,Accommodation,2052.2,Bank Transfer,0,0,7,2,30,211,33,1
+HR,Travel,76142.62,Reimbursement,0,1,8,2,20,232,28,1
+Sales,Equipment,8664.05,Reimbursement,0,0,12,3,11,345,31,0
+Operations,Equipment,6823.31,Corporate Card,0,0,9,1,23,266,28,0
+HR,Meals,1358.3,Reimbursement,0,0,2,3,20,51,28,0
+Finance,Equipment,3103.52,Bank Transfer,0,0,10,2,22,295,29,0
+HR,Meals,439.06,Reimbursement,0,0,4,1,15,105,26,0
+Finance,Meals,2331.15,Corporate Card,0,0,2,3,20,51,23,0
+IT,Equipment,7448.67,Corporate Card,0,0,7,0,21,202,20,0
+HR,Meals,1302.3,Reimbursement,0,0,8,2,27,239,21,0
+Sales,Accommodation,5836.91,Reimbursement,1,0,9,5,27,270,25,0
+Sales,Accommodation,6841.74,Reimbursement,0,0,7,0,14,195,29,0
+IT,Travel,4811.87,Corporate Card,1,0,1,6,12,12,22,0
+HR,Accommodation,5080.12,Reimbursement,0,0,9,2,17,260,33,0
+HR,Meals,2418.63,Corporate Card,0,0,6,0,9,160,29,0
+HR,Travel,3201.24,Corporate Card,1,0,10,6,26,299,23,0
+HR,Equipment,11103.34,Corporate Card,1,0,1,6,26,26,26,0
+Sales,Accommodation,3133.63,Bank Transfer,0,0,11,2,12,316,25,0
+IT,Travel,7050.89,Bank Transfer,0,0,6,4,6,157,41,0
+Finance,Equipment,4615.03,Reimbursement,0,0,6,3,5,156,31,0
+HR,Accommodation,7566.63,Reimbursement,0,0,10,3,30,303,26,0
+Sales,Accommodation,2396.68,Bank Transfer,1,0,3,5,1,60,41,0
+Finance,Accommodation,7310.48,Bank Transfer,1,0,6,6,1,152,18,0
+HR,Accommodation,9347.61,Bank Transfer,0,0,4,0,7,97,24,0
+IT,Accommodation,6430.42,Corporate Card,0,0,11,3,27,331,26,0
+HR,Accommodation,6448.59,Reimbursement,0,0,9,0,15,258,26,0
+Finance,Meals,1623.18,Reimbursement,0,0,9,1,30,273,23,0
+Operations,Meals,2196.79,Reimbursement,0,0,6,1,10,161,41,0
+Sales,Office Supplies,2889.41,Corporate Card,1,0,3,6,30,89,23,0
+IT,Office Supplies,678.57,Bank Transfer,0,0,1,0,20,20,27,0
+Operations,Equipment,14709.9,Bank Transfer,0,0,8,4,29,241,29,0
+Finance,Meals,1506.34,Corporate Card,0,0,8,4,8,220,23,0
+IT,Travel,10000.58,Bank Transfer,0,0,1,2,22,22,25,0
+Operations,Accommodation,7882.76,Reimbursement,1,0,11,5,8,312,25,0
+HR,Office Supplies,2207.15,Bank Transfer,0,0,1,3,30,30,20,0
+HR,Equipment,59064.02,Reimbursement,1,1,5,6,18,138,31,1
+Sales,Travel,8049.98,Reimbursement,0,0,2,3,27,58,19,0
+HR,Office Supplies,2362.09,Corporate Card,1,0,12,6,14,348,22,0
+IT,Travel,7715.71,Bank Transfer,1,0,2,5,8,39,19,0
+Finance,Equipment,14306.72,Corporate Card,0,0,5,3,1,121,16,0
+Operations,Meals,514.84,Reimbursement,1,0,11,6,9,313,23,0
+Sales,Meals,1810.99,Corporate Card,0,0,3,0,3,62,22,0
+Sales,Equipment,12663.09,Reimbursement,1,0,11,6,23,327,25,0
+Operations,Office Supplies,320.69,Reimbursement,1,0,8,6,17,229,24,0
+HR,Meals,2261.01,Bank Transfer,0,0,8,1,19,231,23,0
+IT,Accommodation,9686.9,Bank Transfer,1,0,10,5,25,298,28,0
+HR,Accommodation,2480.29,Reimbursement,0,0,4,4,25,115,25,0
+Operations,Equipment,42399.74,Bank Transfer,0,1,1,1,7,7,28,1
+Sales,Travel,19347.92,Reimbursement,0,1,9,2,3,246,24,0
+Finance,Travel,4136.04,Corporate Card,0,0,7,1,8,189,24,0
+Operations,Equipment,9643.41,Reimbursement,1,0,1,5,4,4,19,0
+Operations,Equipment,18972.56,Corporate Card,0,0,10,1,21,294,34,0
+Operations,Travel,8733.23,Bank Transfer,0,0,3,1,4,63,18,0
+IT,Travel,10399.87,Reimbursement,0,0,9,3,25,268,24,0
+Finance,Accommodation,5069.72,Bank Transfer,0,0,12,4,26,360,26,0
+Finance,Equipment,14716.56,Reimbursement,0,0,4,3,3,93,28,0
+Finance,Office Supplies,2145.96,Bank Transfer,1,0,7,6,6,187,23,0
+IT,Equipment,8407.5,Reimbursement,0,0,9,1,9,252,28,0
+Operations,Equipment,6105.46,Reimbursement,0,0,2,0,17,48,24,0
+IT,Meals,1185.06,Reimbursement,0,0,4,0,7,97,11,0
+Sales,Accommodation,2781.5,Bank Transfer,0,0,10,4,24,297,24,0
+HR,Equipment,5687.5,Bank Transfer,1,0,11,6,30,334,30,0
+Operations,Accommodation,4327.23,Bank Transfer,1,0,5,5,3,123,22,0
+Sales,Equipment,15968.04,Reimbursement,0,0,11,0,17,321,24,0
+Finance,Travel,9429.98,Corporate Card,0,0,10,0,6,279,24,0
+IT,Meals,874.27,Reimbursement,0,0,5,3,8,128,26,0
+IT,Travel,11414.79,Bank Transfer,0,0,3,2,12,71,41,0
+Finance,Office Supplies,1766.64,Corporate Card,0,0,6,0,30,181,32,0
+Operations,Accommodation,4507.3,Reimbursement,1,0,11,6,30,334,31,0
+Sales,Travel,10029.73,Reimbursement,0,0,11,3,6,310,23,0
+Operations,Equipment,17802.52,Bank Transfer,0,0,8,0,25,237,29,0
+Sales,Travel,8901.72,Corporate Card,0,0,4,0,14,104,23,0
+Sales,Travel,5325.87,Reimbursement,1,0,2,5,15,46,25,0
+Sales,Meals,497.32,Bank Transfer,0,0,2,3,27,58,25,0
+HR,Meals,354.65,Corporate Card,0,0,4,0,21,111,26,0
+HR,Travel,9795.14,Corporate Card,0,0,2,2,26,57,32,0
+Sales,Office Supplies,1675.53,Bank Transfer,0,0,9,0,22,265,26,0
+Finance,Travel,8726.63,Reimbursement,1,0,8,6,17,229,20,0
+IT,Office Supplies,452.59,Bank Transfer,0,0,5,4,16,136,34,0
+HR,Equipment,7923.06,Corporate Card,1,0,7,6,20,201,34,1
+Sales,Office Supplies,313.59,Reimbursement,0,0,9,2,17,260,19,0
+HR,Office Supplies,2017.15,Reimbursement,0,0,8,3,7,219,28,0
+IT,Meals,2489.66,Reimbursement,0,1,11,1,25,329,34,0
+Sales,Office Supplies,1223.05,Reimbursement,0,0,7,1,8,189,25,0
+Sales,Meals,1661.93,Reimbursement,0,0,2,4,28,59,34,0
+HR,Office Supplies,18860.48,Corporate Card,0,1,1,0,20,20,36,1
+Sales,Meals,1178.38,Corporate Card,0,0,6,4,27,178,22,0
+IT,Equipment,3993.67,Reimbursement,0,0,1,2,15,15,29,0
+Operations,Office Supplies,439.49,Corporate Card,0,0,9,1,23,266,28,0
+IT,Travel,7298.89,Bank Transfer,1,0,6,6,8,159,18,0
+Finance,Meals,1147.21,Bank Transfer,1,0,2,6,23,54,19,0
+IT,Accommodation,5788.19,Corporate Card,0,0,12,4,12,346,25,0
+Operations,Accommodation,3638.57,Corporate Card,1,0,7,6,13,194,26,0
+HR,Travel,10075.16,Corporate Card,1,0,11,5,1,305,25,0
+Sales,Accommodation,9060.84,Bank Transfer,1,0,12,5,27,361,26,0
+Finance,Meals,1986.78,Bank Transfer,1,0,5,6,25,145,23,0
+IT,Accommodation,8639.66,Reimbursement,0,0,8,4,8,220,19,0
+Operations,Accommodation,6920.52,Reimbursement,0,0,7,4,25,206,29,0
+HR,Accommodation,5441.32,Corporate Card,0,0,8,0,25,237,26,0
+Finance,Office Supplies,2947.01,Corporate Card,1,0,3,5,15,74,22,0
+Finance,Accommodation,6789.36,Corporate Card,0,0,2,2,26,57,31,0
+HR,Travel,7397.56,Bank Transfer,0,0,11,4,7,311,21,0
+IT,Office Supplies,164.07,Corporate Card,0,0,12,2,10,344,29,0
+Operations,Meals,1326.16,Reimbursement,0,0,9,1,23,266,28,0
+Operations,Office Supplies,1532.12,Reimbursement,0,0,3,2,5,64,27,0
+IT,Travel,11717.53,Reimbursement,1,0,2,5,8,39,26,0
+HR,Accommodation,9495.87,Corporate Card,1,0,8,5,16,228,21,0
+HR,Office Supplies,1446.87,Bank Transfer,0,0,3,2,12,71,28,0
+Finance,Travel,3405.12,Bank Transfer,1,0,10,5,25,298,18,0
+IT,Accommodation,4480.01,Reimbursement,0,0,5,3,15,135,34,0
+HR,Meals,1767.39,Bank Transfer,0,0,2,3,13,44,37,0
+Finance,Accommodation,3179.62,Corporate Card,0,0,7,2,2,183,29,0
+Operations,Accommodation,4983.45,Reimbursement,0,0,9,0,15,258,36,0
+IT,Meals,1814.75,Reimbursement,0,0,8,3,7,219,41,0
+IT,Office Supplies,2525.62,Corporate Card,0,0,7,4,11,192,36,0
+Operations,Equipment,3977.48,Bank Transfer,1,0,1,6,26,26,26,0
+IT,Accommodation,3771.58,Reimbursement,0,0,9,0,29,272,24,0
+Sales,Office Supplies,1537.42,Bank Transfer,0,0,2,0,24,55,25,0
+Operations,Travel,3990.44,Corporate Card,0,0,1,4,17,17,30,0
+HR,Meals,2488.87,Reimbursement,0,1,9,1,2,245,21,0
+IT,Accommodation,2173.91,Corporate Card,0,0,4,2,16,106,37,0
+IT,Office Supplies,2112.81,Bank Transfer,0,0,6,2,25,176,24,0
+Sales,Meals,622.7,Reimbursement,0,0,5,0,5,125,26,0
+Sales,Equipment,9852.97,Corporate Card,1,0,12,5,13,347,28,0
+Operations,Office Supplies,2387.58,Bank Transfer,0,0,8,1,12,224,31,0
+HR,Equipment,13894.47,Corporate Card,0,0,10,1,28,301,21,0
+HR,Accommodation,6923.64,Reimbursement,1,0,7,5,26,207,16,0
+Operations,Equipment,18098.24,Reimbursement,0,0,9,1,23,266,20,0
+Finance,Office Supplies,2383.43,Bank Transfer,0,0,3,2,26,85,29,0
+Finance,Accommodation,8761.49,Bank Transfer,1,0,6,6,8,159,28,0
+HR,Office Supplies,900.94,Reimbursement,0,0,9,0,8,251,33,0
+IT,Accommodation,5157.21,Bank Transfer,1,0,5,5,10,130,22,0
+Operations,Travel,9043.64,Corporate Card,0,0,2,2,5,36,26,0
+IT,Meals,1707.5,Reimbursement,1,0,3,6,16,75,21,0
+Sales,Office Supplies,2458.23,Reimbursement,0,0,1,3,9,9,33,0
+IT,Meals,1785.23,Corporate Card,0,0,6,1,17,168,33,0
+HR,Accommodation,6304.85,Corporate Card,0,0,9,1,16,259,24,0
+Sales,Travel,10462.34,Bank Transfer,0,0,4,3,10,100,21,0
+IT,Travel,9754.77,Corporate Card,0,0,4,3,24,114,36,0
+HR,Equipment,19078.91,Reimbursement,0,0,6,1,3,154,23,0
+Operations,Meals,2077.62,Bank Transfer,0,0,5,1,13,133,21,0
+Finance,Office Supplies,615.21,Bank Transfer,0,0,8,2,13,225,34,0
+Sales,Equipment,4145.49,Reimbursement,0,0,9,0,15,258,21,0
+Sales,Office Supplies,1007.94,Bank Transfer,1,0,3,5,8,67,23,0
+Finance,Accommodation,5001.71,Reimbursement,0,0,9,1,16,259,24,0
+Finance,Office Supplies,390.42,Reimbursement,0,0,6,2,25,176,28,0
+Sales,Office Supplies,1523.7,Corporate Card,0,0,11,3,13,317,29,0
+HR,Office Supplies,145.52,Reimbursement,1,0,8,5,30,242,27,0
+HR,Equipment,20328.04,Bank Transfer,0,1,12,3,25,359,28,0
+Operations,Travel,3038.24,Corporate Card,0,0,11,0,10,314,26,0
+IT,Meals,734.21,Reimbursement,0,0,2,4,28,59,29,0
+IT,Meals,1669.77,Corporate Card,1,0,7,6,20,201,22,0
+Sales,Equipment,4474.95,Reimbursement,0,0,12,3,4,338,26,0
+Finance,Accommodation,8122.16,Bank Transfer,0,0,12,0,8,342,25,0
+HR,Accommodation,7566.4,Reimbursement,1,0,12,6,14,348,32,1
+IT,Travel,10782.14,Corporate Card,0,0,3,2,5,64,29,0
+HR,Travel,8191.44,Corporate Card,0,0,6,4,13,164,28,0
+Finance,Meals,1857.53,Bank Transfer,1,0,7,6,13,194,19,0
+Sales,Travel,4028.44,Corporate Card,0,0,5,2,21,141,21,0
+Operations,Office Supplies,2215.39,Bank Transfer,1,0,2,5,15,46,19,0
+Operations,Travel,7859.84,Bank Transfer,0,0,3,0,3,62,20,0
+IT,Equipment,3166.74,Corporate Card,0,0,2,2,26,57,30,0
+Operations,Equipment,12566.59,Bank Transfer,0,0,5,3,22,142,18,0
+Operations,Office Supplies,2773.59,Bank Transfer,0,0,6,2,11,162,25,0
+Sales,Office Supplies,572.89,Corporate Card,0,0,3,4,7,66,25,0
+Finance,Accommodation,6629.56,Corporate Card,1,0,6,6,1,152,30,0
+HR,Travel,3424.59,Bank Transfer,0,0,1,0,6,6,32,0
+Sales,Accommodation,2218.97,Reimbursement,0,0,9,3,25,268,32,0
+Sales,Accommodation,2291.69,Bank Transfer,1,0,6,6,29,180,28,0
+Finance,Equipment,7524.83,Corporate Card,0,0,2,0,24,55,35,0
+Sales,Travel,3308.03,Reimbursement,0,0,8,2,20,232,36,0
+IT,Accommodation,6561.5,Corporate Card,0,0,5,0,5,125,21,0
+Operations,Accommodation,3762.55,Corporate Card,0,0,4,0,14,104,26,0
+HR,Equipment,9442.47,Bank Transfer,1,0,12,5,27,361,18,0
+Finance,Equipment,10863.62,Bank Transfer,0,0,5,0,26,146,36,0
+Sales,Meals,282.72,Bank Transfer,0,0,2,1,4,35,28,0
+HR,Equipment,6423.73,Bank Transfer,1,0,3,6,23,82,31,0
+Sales,Travel,6468.25,Bank Transfer,0,0,2,4,7,38,26,0
+IT,Equipment,8194.07,Reimbursement,0,0,12,0,1,335,30,0
+HR,Meals,752.7,Bank Transfer,0,0,5,3,8,128,23,0
+Sales,Accommodation,7452.43,Reimbursement,0,0,3,3,13,72,22,0
+HR,Meals,897.64,Corporate Card,0,0,9,4,19,262,30,0
+IT,Accommodation,8655.3,Corporate Card,0,0,4,3,3,93,26,0
+Operations,Equipment,3738.59,Bank Transfer,1,0,5,5,10,130,26,0
+Sales,Accommodation,9730.52,Reimbursement,1,0,6,6,22,173,27,0
+Operations,Office Supplies,1815.2,Bank Transfer,0,0,5,4,2,122,22,0
+HR,Accommodation,4900.61,Reimbursement,0,0,9,0,22,265,28,0
+HR,Accommodation,4014.39,Reimbursement,0,0,3,0,10,69,24,0
+IT,Equipment,11210.81,Corporate Card,1,0,3,6,23,82,23,0
+Sales,Equipment,14584.46,Corporate Card,0,0,5,4,9,129,32,0
+IT,Accommodation,4411.02,Corporate Card,0,0,1,3,23,23,33,0
+IT,Equipment,7454.44,Corporate Card,0,0,4,0,21,111,23,0
+Operations,Office Supplies,2668.81,Corporate Card,0,0,2,0,17,48,22,0
+Sales,Office Supplies,1305.67,Reimbursement,0,0,2,1,18,49,28,0
+IT,Travel,4937.91,Bank Transfer,0,0,7,1,22,203,30,0
+Sales,Office Supplies,2319.06,Bank Transfer,1,0,9,5,27,270,21,0
+HR,Office Supplies,1028.27,Corporate Card,0,0,3,4,28,87,19,0
+HR,Travel,3425.53,Bank Transfer,1,0,9,5,13,256,27,0
+HR,Equipment,6296.99,Bank Transfer,0,0,10,2,29,302,20,0
+Sales,Office Supplies,287.09,Corporate Card,0,0,12,4,5,339,26,0
+Finance,Accommodation,4141.19,Corporate Card,1,0,1,6,26,26,31,0
+IT,Accommodation,6964.43,Corporate Card,0,0,3,4,14,73,31,0
+HR,Accommodation,7372.27,Bank Transfer,0,0,11,1,25,329,22,0
+Finance,Travel,11778.78,Bank Transfer,0,0,10,2,15,288,18,0
+IT,Accommodation,3551.4,Reimbursement,1,0,10,6,5,278,21,0
+Finance,Office Supplies,1943.36,Reimbursement,0,0,3,1,11,70,33,0
+Operations,Travel,4352.5,Reimbursement,1,0,2,6,9,40,29,0
+Sales,Office Supplies,1359.75,Reimbursement,1,0,11,5,15,319,26,0
+HR,Travel,8417.17,Corporate Card,0,0,5,1,27,147,22,0
+Operations,Office Supplies,2492.89,Corporate Card,0,0,1,1,21,21,25,0
+Sales,Accommodation,7505.66,Reimbursement,0,0,10,4,3,276,26,0
+HR,Accommodation,5457.71,Bank Transfer,0,0,5,3,15,135,15,1
+Operations,Office Supplies,2134.53,Reimbursement,1,0,12,6,7,341,23,0
+Finance,Meals,2098.55,Bank Transfer,1,0,8,6,10,222,31,0
+HR,Equipment,1676.55,Bank Transfer,1,0,4,6,27,117,33,0
+Sales,Office Supplies,1391.99,Corporate Card,1,0,1,6,26,26,33,0
+Sales,Meals,663.51,Bank Transfer,1,0,8,6,10,222,22,0
+HR,Meals,504.94,Reimbursement,0,0,7,1,15,196,29,0
+Operations,Meals,1383.77,Reimbursement,0,0,4,1,1,91,22,0
+Finance,Equipment,15769.48,Corporate Card,0,0,5,1,20,140,29,0
+IT,Meals,864.5,Bank Transfer,0,0,6,1,10,161,34,0
+HR,Meals,2247.72,Bank Transfer,1,0,8,5,2,214,34,0
+Operations,Travel,10525.05,Corporate Card,0,0,8,3,28,240,33,0
+IT,Equipment,18890.17,Corporate Card,1,0,3,5,15,74,21,0
+Finance,Equipment,17791.45,Corporate Card,1,0,5,6,25,145,20,0
+IT,Meals,1389.76,Corporate Card,0,0,10,0,6,279,25,0
+Sales,Meals,13869.9,Bank Transfer,1,1,3,5,8,67,33,1
+IT,Meals,1778.55,Bank Transfer,0,0,6,3,5,156,24,0
+Finance,Accommodation,5905.28,Reimbursement,1,0,10,5,11,284,23,0
+IT,Office Supplies,956.79,Corporate Card,1,0,9,5,13,256,26,0
+HR,Meals,1014.34,Reimbursement,0,0,10,3,16,289,28,0
+Finance,Meals,709.45,Bank Transfer,0,0,8,0,25,237,31,0
+Finance,Travel,2293.76,Bank Transfer,0,0,2,1,11,42,23,0
+Operations,Meals,1213.11,Corporate Card,0,0,7,4,25,206,25,0
+HR,Equipment,8090.59,Bank Transfer,0,0,1,3,23,23,20,0
+Operations,Office Supplies,2564.18,Corporate Card,1,0,3,6,23,82,31,0
+HR,Accommodation,2002.75,Reimbursement,1,0,5,5,10,130,24,0
+Finance,Equipment,16188.91,Reimbursement,0,0,9,4,12,255,23,0
+IT,Travel,7123.14,Reimbursement,0,0,1,3,30,30,19,0
+HR,Equipment,3383.66,Bank Transfer,0,0,9,0,8,251,22,0
+Operations,Meals,2138.41,Reimbursement,0,0,12,2,10,344,28,0
+Sales,Equipment,12933.41,Reimbursement,1,0,6,6,15,166,33,0
+Operations,Equipment,10989.77,Reimbursement,0,0,9,4,26,269,21,0
+IT,Office Supplies,1219.8,Bank Transfer,0,0,8,2,6,218,22,0
+IT,Office Supplies,427.98,Corporate Card,1,0,5,5,24,144,17,0
+Finance,Travel,7387.88,Reimbursement,0,0,8,0,25,237,24,0
+HR,Equipment,2881.45,Bank Transfer,0,0,11,2,12,316,26,0
+IT,Travel,6448.7,Corporate Card,1,0,2,5,15,46,25,0
+Operations,Office Supplies,1796.85,Corporate Card,0,0,10,3,2,275,32,0
+Finance,Office Supplies,820.75,Bank Transfer,1,0,5,6,4,124,27,0
+Operations,Meals,214.93,Bank Transfer,0,0,7,0,7,188,21,0
+Finance,Equipment,14569.43,Bank Transfer,1,0,1,5,18,18,28,0
+Sales,Meals,1067.35,Reimbursement,0,0,10,0,6,279,26,0
+Finance,Office Supplies,1682.87,Reimbursement,1,0,5,6,25,145,20,0
+Sales,Accommodation,4554.51,Corporate Card,0,0,7,4,25,206,28,0
+Operations,Accommodation,3274.46,Corporate Card,0,0,4,2,30,120,25,0
+Finance,Office Supplies,1878.19,Corporate Card,1,0,9,5,27,270,22,0
+Finance,Office Supplies,1247.76,Corporate Card,0,0,1,3,2,2,27,0
+IT,Accommodation,2418.84,Corporate Card,0,0,1,0,13,13,28,0
+IT,Accommodation,8757.56,Corporate Card,0,0,2,4,7,38,21,0
+HR,Office Supplies,697.37,Corporate Card,0,0,4,2,2,92,22,0
+Operations,Office Supplies,257.73,Corporate Card,0,0,2,4,28,59,32,0
+Operations,Office Supplies,1896.8,Corporate Card,0,0,10,0,20,293,19,0
+Finance,Meals,2111.28,Bank Transfer,0,0,12,0,15,349,22,0
+Operations,Meals,1111.73,Bank Transfer,0,0,8,3,21,233,21,0
+Operations,Office Supplies,4783.11,Corporate Card,0,1,4,3,17,107,33,1
+Finance,Travel,9731.59,Bank Transfer,0,0,4,3,10,100,21,0
+HR,Equipment,11363.46,Corporate Card,0,0,3,0,31,90,29,0
+IT,Meals,488.04,Corporate Card,1,0,12,5,13,347,15,0
+Sales,Travel,4672.8,Reimbursement,0,0,8,4,8,220,29,0
+Finance,Meals,1574.99,Corporate Card,1,0,6,5,21,172,29,0
+IT,Equipment,14109.85,Reimbursement,0,0,4,4,25,115,18,0
+Operations,Meals,630.33,Reimbursement,0,0,10,3,30,303,23,0
+Operations,Meals,1090.6,Corporate Card,0,0,2,1,4,35,30,0
+Operations,Travel,10672.33,Bank Transfer,0,0,8,1,19,231,18,0
+Finance,Meals,1707.57,Bank Transfer,0,0,4,3,17,107,23,0
+Sales,Meals,2146.24,Reimbursement,0,0,2,3,6,37,26,0
+Sales,Meals,974.9,Bank Transfer,1,0,11,6,16,320,30,0
+IT,Office Supplies,2803.2,Corporate Card,0,0,5,4,23,143,29,0
+Finance,Office Supplies,1111.7,Reimbursement,0,0,1,2,29,29,26,0
+Sales,Meals,1949.89,Reimbursement,0,0,6,1,17,168,28,0
+HR,Travel,9455.47,Bank Transfer,0,0,7,0,7,188,33,0
+IT,Meals,318.33,Reimbursement,0,0,11,3,6,310,23,0
+IT,Travel,7386.28,Bank Transfer,0,0,11,2,12,316,23,0
+HR,Travel,4995.87,Bank Transfer,1,0,6,6,8,159,28,0
+HR,Equipment,7137.37,Bank Transfer,0,0,7,0,28,209,38,0
+Operations,Accommodation,5796.89,Corporate Card,0,0,12,2,17,351,34,0
+HR,Office Supplies,1593.35,Reimbursement,1,0,9,5,6,249,24,0
+HR,Office Supplies,18940.19,Bank Transfer,0,1,2,4,14,45,19,1
+Operations,Equipment,16712.5,Bank Transfer,0,0,9,0,15,258,25,0
+HR,Accommodation,25420.05,Corporate Card,1,1,6,5,21,172,29,1
+Sales,Travel,1692.9,Corporate Card,0,0,3,1,18,77,17,0
+HR,Meals,1458.16,Corporate Card,0,0,11,0,3,307,20,0
+Operations,Office Supplies,460.46,Reimbursement,1,0,5,5,17,137,21,0
+Finance,Accommodation,5170.24,Corporate Card,0,0,8,3,14,226,22,0
+Operations,Accommodation,2786.49,Reimbursement,0,0,10,2,8,281,24,0
+Operations,Accommodation,5123.2,Bank Transfer,0,0,1,4,17,17,26,0
+Sales,Meals,1000.62,Bank Transfer,0,0,5,1,6,126,26,0
+Operations,Travel,10422.28,Reimbursement,0,0,7,4,4,185,25,0
+Finance,Travel,5164.4,Corporate Card,0,0,4,1,8,98,23,0
+Sales,Accommodation,4429.59,Bank Transfer,0,0,12,0,8,342,29,0
+HR,Meals,1554.08,Reimbursement,1,0,9,6,7,250,25,0
+Finance,Equipment,13428.68,Corporate Card,0,0,3,1,11,70,23,0
+IT,Meals,1507.92,Reimbursement,0,0,4,4,11,101,36,0
+HR,Office Supplies,156.13,Corporate Card,1,0,12,6,7,341,28,0
+Sales,Office Supplies,2847.68,Bank Transfer,0,0,11,1,18,322,29,0
+HR,Meals,2387.45,Bank Transfer,0,0,7,0,21,202,31,0
+IT,Equipment,6985.43,Corporate Card,0,0,5,2,14,134,31,0
+Operations,Meals,2113.17,Reimbursement,0,0,9,0,29,272,30,0
+Sales,Accommodation,8209.21,Corporate Card,0,0,5,0,19,139,30,0
+HR,Office Supplies,2872.54,Bank Transfer,0,0,2,0,17,48,28,0
+Sales,Travel,10394.25,Corporate Card,0,0,9,2,3,246,21,0
+Finance,Travel,9580.56,Bank Transfer,0,0,9,1,9,252,24,0
+IT,Travel,3559.48,Corporate Card,1,0,2,5,22,53,28,0
+IT,Equipment,6771.91,Corporate Card,1,0,3,5,29,88,26,0
+Finance,Meals,803.72,Reimbursement,1,0,7,6,20,201,18,0
+Operations,Travel,42731.21,Bank Transfer,1,1,11,6,9,313,28,1
+HR,Accommodation,8070.78,Bank Transfer,0,0,7,3,17,198,24,0
+Sales,Travel,2947.9,Bank Transfer,0,0,10,4,17,290,23,0
+Operations,Office Supplies,710.26,Bank Transfer,1,0,10,6,26,299,28,0
+HR,Meals,285.12,Bank Transfer,1,0,6,6,8,159,25,0
+Sales,Equipment,16339.02,Reimbursement,1,0,6,6,22,173,26,0
+HR,Accommodation,3126.86,Bank Transfer,1,0,6,6,1,152,28,0
+HR,Meals,1504.5,Bank Transfer,0,0,1,3,16,16,29,0
+HR,Travel,3968.52,Corporate Card,0,0,3,0,24,83,21,0
+HR,Office Supplies,2025.56,Bank Transfer,0,0,1,0,13,13,41,0
+Finance,Travel,8644.36,Corporate Card,0,0,2,4,7,38,11,0
+Finance,Accommodation,5947.53,Reimbursement,0,0,11,3,27,331,16,0
+IT,Accommodation,4547.62,Bank Transfer,0,0,9,0,1,244,30,0
+HR,Equipment,8420.96,Corporate Card,0,0,8,4,8,220,28,0
+Operations,Accommodation,2226.49,Reimbursement,1,0,7,5,26,207,30,0
+Finance,Accommodation,7894.36,Reimbursement,0,0,1,2,29,29,23,0
+IT,Office Supplies,1899.61,Reimbursement,0,0,9,0,1,244,36,0
+IT,Office Supplies,1607.25,Bank Transfer,0,0,3,2,19,78,21,0
+IT,Equipment,13962.61,Corporate Card,0,0,9,1,16,259,26,0
+Finance,Meals,583.36,Bank Transfer,0,0,11,3,20,324,32,1
+Operations,Travel,8306.9,Bank Transfer,0,0,3,4,21,80,21,0
+Sales,Travel,3703.72,Corporate Card,0,0,1,0,6,6,11,0
+IT,Travel,10072.34,Corporate Card,0,0,3,3,6,65,23,0
+Operations,Travel,10695.03,Corporate Card,0,0,8,0,18,230,31,0
+Operations,Accommodation,36284.42,Corporate Card,0,1,9,1,2,245,18,1
+Sales,Office Supplies,1605.24,Bank Transfer,0,0,8,3,21,233,28,0
+Operations,Travel,10787.21,Corporate Card,0,0,5,4,23,143,18,0
+Sales,Accommodation,3465.59,Reimbursement,0,0,5,1,13,133,36,0
