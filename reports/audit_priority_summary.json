@@ -1,0 +1,13 @@
+{
+  "total_transactions": 5000,
+  "selected_threshold": 0.7,
+  "model_flagged_transactions": 242,
+  "priority_counts": {
+    "Monitor": 4585,
+    "P1 - Urgent": 211,
+    "P3 - Routine": 173,
+    "P2 - High": 31
+  },
+  "flagged_claim_amount_inr": 6203809.35,
+  "warning": "Flagged claim amounts are potential exposure for review, not confirmed financial losses. Predictions use synthetic labels and require human audit verification."
+}

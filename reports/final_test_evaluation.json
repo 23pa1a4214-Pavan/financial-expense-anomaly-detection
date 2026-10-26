@@ -1,0 +1,23 @@
+{
+  "test_transactions": 750,
+  "selected_model": "Random Forest",
+  "threshold": 0.7,
+  "accuracy": 0.976,
+  "precision": 0.9583333333333334,
+  "recall": 0.575,
+  "f1_score": 0.71875,
+  "pr_auc": 0.6215405438814116,
+  "confusion_matrix": [
+    [
+      709,
+      1
+    ],
+    [
+      17,
+      23
+    ]
+  ],
+  "model_sha256": "caa1360b7c4f7cbedc4e00cabf954f1e81cae04a045ca1f080b8d39e35741c04",
+  "synthetic_labels": true,
+  "interpretation": "Evaluation against synthetic labels only; not verified real-world fraud detection performance."
+}

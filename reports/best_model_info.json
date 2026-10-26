@@ -1,0 +1,36 @@
+{
+  "selected_model": "Random Forest",
+  "selection_metric": "validation PR-AUC",
+  "target": "audit_label",
+  "synthetic_labels": true,
+  "excluded_leakage_features": [
+    "transaction_id",
+    "employee_id",
+    "transaction_date",
+    "high_risk",
+    "synthetic_label_reason",
+    "statistical_anomaly",
+    "is_duplicate",
+    "policy_violation",
+    "amount_to_median_ratio",
+    "robust_z_score",
+    "category_median",
+    "category_mad",
+    "category_percentile",
+    "employee_avg_amount",
+    "amount_to_employee_avg_ratio"
+  ],
+  "input_features": [
+    "department",
+    "expense_category",
+    "amount",
+    "payment_method",
+    "is_weekend",
+    "above_category_p95",
+    "transaction_month",
+    "transaction_day_of_week",
+    "transaction_day",
+    "transaction_day_of_year",
+    "employee_transaction_count"
+  ]
+}

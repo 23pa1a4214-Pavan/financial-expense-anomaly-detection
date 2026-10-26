@@ -1,0 +1,6 @@
+expense_category,transaction_count,mean_amount,median_amount,standard_deviation,percentile_95,percentile_99
+Accommodation,1022,6870.69,5934.86,6279.02,9849.09,40273.55
+Equipment,1026,12638.7,10894.01,13827.15,19477.88,89299.7
+Meals,982,1528.46,1393.34,1197.78,2437.87,7165.4
+Office Supplies,980,1882.19,1576.54,2325.62,2962.91,15149.44
+Travel,990,8017.76,7050.89,7619.36,11879.47,45641.41
