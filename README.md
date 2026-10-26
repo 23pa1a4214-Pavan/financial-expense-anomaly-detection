@@ -954,6 +954,6 @@ The application should be treated as a research and demonstration project, with 
 
 **Repository:** [financial-expense-anomaly-detection](https://github.com/23pa1a4214-Pavan/financial-expense-anomaly-detection)
 
-**Live application:** Add your deployed Streamlit URL here.
+**Live application:** [financial-expense-anomaly-detection](https://financial-expense-anomaly-detection-a8pgmuwfryvpqu4do4wcjr.streamlit.app)
 
 **Project domain:** Machine Learning, Financial Analytics, Explainable AI, and Corporate Auditing
